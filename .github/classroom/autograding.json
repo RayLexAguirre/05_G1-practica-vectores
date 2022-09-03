@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Generar vector par",
+      "setup": "npm install",
+      "run": "npm run test generarVectorPar.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 25
+    },
+    {
+      "name": "Reemplazar",
+      "setup": "",
+      "run": "npm run test reemplazar.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 25
+    },
+    {
+      "name": "Invertir",
+      "setup": "",
+      "run": "npm run test invertir.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 25
+    },
+    {
+      "name": "Aprobados",
+      "setup": "",
+      "run": "npm run test aprobados.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 25
+    }
+  ]
+}
